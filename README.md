@@ -1,6 +1,7 @@
 # Simple Todo App
 
 The Simple ToDo App is a modular, scalable task-management application built as part of an advanced front-end engineering sprint.
+
 The project demonstrates Object-Oriented Programming (OOP), component-driven architecture, and ES6 module design, focusing on clean, maintainable, and reusable code.
 
 The app allows users to create tasks, assign optional due dates, mark items as completed, validate form inputs in real time, and remove tasks efficiently — all rendered dynamically using JavaScript DOM manipulation and HTML templates.
@@ -37,4 +38,4 @@ The project is built using a modern front-end stack and professional engineering
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- [https://github.com/Marrr14N/se_project_todo-app]
