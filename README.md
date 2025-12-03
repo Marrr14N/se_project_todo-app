@@ -38,4 +38,4 @@ The project is built using a modern front-end stack and professional engineering
 
 This project is deployed on GitHub Pages:
 
-- [https://github.com/Marrr14N/se_project_todo-app]
+- [https://marrr14n.github.io/se_project_todo-app/]
