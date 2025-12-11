@@ -35,8 +35,6 @@
   color: #181818;
   font-size: 20px;
   line-height: 1.2;
-
-  /* Truncate text with ellipses, maximum of two rows. */
   text-overflow: ellipsis;
   overflow: hidden;
   display: -webkit-box;
@@ -101,6 +99,12 @@
     background-image: url(../images/delete-icon.svg);
     width: 24px;
     height: 24px;
+    cursor: pointer;
+    transition: opacity 0.2s ease;
+  }
+
+  .todo__delete-btn:hover {
+    opacity: 0.6;
   }
 
   .todo__delete-btn::before {
